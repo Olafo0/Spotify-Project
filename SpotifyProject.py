@@ -13,6 +13,7 @@ def loadspotify_song():
     global times_played
     if times_played > 0:
         active_window = current_song
+        # What I need to add in order to work
         # RETURN THE NAME OF THE CURRENT SONG BEING PLAYED THROUGH API
         #-
         #-
